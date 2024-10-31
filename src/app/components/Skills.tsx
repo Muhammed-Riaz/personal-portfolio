@@ -1,5 +1,5 @@
 "use client";
-import "../style/Skill.css";
+import "../style/skill.css";
 import { RedoDot } from 'lucide-react';
 import { motion } from "framer-motion";
 
