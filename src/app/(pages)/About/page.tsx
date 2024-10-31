@@ -1,8 +1,7 @@
 "use client"
-
 import Image from 'next/image'
 import React from 'react'
-import '../styles/about.css'
+import "@/app/style/about.css"
 import {  motion } from "framer-motion";
 
 function About() {

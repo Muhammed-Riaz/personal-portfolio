@@ -1,5 +1,5 @@
 "use client"
-import "../styles/contact.css"
+import "@/app/style/contact.css"
 import {  motion } from "framer-motion";
 function Contact() {
   return (
