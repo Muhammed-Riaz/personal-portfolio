@@ -23,10 +23,12 @@ function Projects() {
       
       }}>
 
-      <h1 className="Heading antialiased">
-      <span>Pro</span>
-        <span>jects</span>
+  <div className='headi'>
+    <h1 className="Heading antialiased">
+      <span>Proj</span>
+        <span>ect</span>
         </h1>
+    </div>
 
       {/* parent div */}
       <div className="cards">

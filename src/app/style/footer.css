@@ -1,6 +1,8 @@
 footer{
   width: 100%;
   margin-top: 100px;
+  /* background: linear-gradient(to right, #003285, #2A629A, #FF7F3E, #FFDA78); */
+
 }
 
 .footer-parent{
@@ -17,6 +19,7 @@ footer{
   justify-items: center; 
   width: 300px;
   gap:120px;
+
 }
 
 .child002{

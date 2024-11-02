@@ -1,12 +1,8 @@
-/* styles.css */
-
 .main {
   height: auto;
-  margin-top: 7.5rem; /* mt-10 */
+  margin-top: 7.5rem; 
 }
-.headin{
-  text-align: center;
-}
+
 .h111{
   color: gold;
   font-size: 70px;
@@ -21,7 +17,7 @@
   margin: 0 auto; 
   height: 100vh; 
   margin-bottom: 2.5rem; 
-  background-color: #79acff;
+  background-color: rgb(244, 142, 69);
   padding-bottom: 20px;
   padding-top: 20px;
   border-radius: 20%;

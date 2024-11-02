@@ -12,8 +12,16 @@ function Contact() {
       ease: "easeInOut",
     }}>
       
+    
     <main className="main">
-          <div className="headin"><h1 className="h111">Contact Us</h1></div>
+
+    <div className='headi'>
+    <h1 className="Heading antialiased">
+      <span>Cont</span>
+        <span>act</span>
+        </h1>
+    </div>
+
     <div className="container11">
       <div className="card">
         <label htmlFor="Name" className="label">Full name:</label>

@@ -17,12 +17,12 @@ function Skills() {
       <figure>
 
 
-      <div>
-            <h1 className="Heading antialiased">
-              <span>Ski</span>
-              <span>lls</span>
-            </h1>
-          </div>
+      <div className='headi'>
+    <h1 className="Heading antialiased">
+      <span>Ski</span>
+        <span>lls</span>
+        </h1>
+    </div>
         {/* parent */}
 
         <div className="toper">

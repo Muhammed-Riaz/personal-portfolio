@@ -6,10 +6,12 @@ function Services() {
 
       <div className="servic">
 
-      <h1 className="Heading antialiased">
-              <span>My </span>
-              <span>Services</span>
-            </h1>
+      <div className='headi'>
+    <h1 className="Heading antialiased">
+      <span>My </span>
+        <span>Services</span>
+        </h1>
+    </div>
 
 <div className="parent1">
 

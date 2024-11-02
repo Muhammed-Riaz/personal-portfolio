@@ -18,8 +18,12 @@ function About() {
 
    <section className='sec'>
     <div className='headi'>
-    <h1 className='hh1'>About me</h1>
+    <h1 className="Heading antialiased">
+      <span>Ab</span>
+        <span>out me</span>
+        </h1>
     </div>
+  
     {/* parent */}
     <div className='about'>
       {/* child 1 */}

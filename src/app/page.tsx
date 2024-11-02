@@ -4,11 +4,12 @@ import HeroSection from "./components/HeroSection"
 import Projects from "./components/projects"
 import Services from "./components/Services"
 import Skills from "./components/Skills"
+import "./style/page.css"
 
 
 function Home() {
   return (
-    <section>
+    <section className="main-page">
       <div id="hero"><HeroSection /></div>
       <div id="skills"><Skills /></div>
       <div id="about"><About /></div>

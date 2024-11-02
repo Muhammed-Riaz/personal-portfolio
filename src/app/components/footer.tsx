@@ -66,11 +66,10 @@ function Footer() {
 </div>
 
 {/* text */}
-<div>
+<div className="ch-color">
   <h4>Send me Email</h4>
   <i>riazahmedzaur110@gmail.com</i>
   
-
 </div>
 
 

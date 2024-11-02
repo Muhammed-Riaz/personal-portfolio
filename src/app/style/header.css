@@ -10,7 +10,7 @@ header {
 
 nav {
   display: flex;
-  justify-content: space-between; 
+  justify-content: space-between;
   align-items: center;
   background-color: rgb(48, 46, 46);
   padding: 10px 2rem; 
@@ -22,9 +22,7 @@ nav {
 
 ul {
   display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 8rem;
+  gap: 6.2rem;
   font-family: 'Courier New', Courier, monospace;
   font-weight: bold;
   font-size: 20px;
@@ -86,7 +84,7 @@ ul li a:hover::after {
     font-size: 16px;
   }
   ul {
-    justify-content: start;
+    justify-content: center;
   }
 }
 
@@ -109,20 +107,19 @@ ul li a:hover::after {
   }
 
   nav{
-    justify-content: start;
+    justify-content: center;
     gap: 100px;
   }
 
   nav ul li {
-    margin: 5px 0; /* Space between items */
+    margin: 5px 0; 
   }
 
   #check:checked + ul {
-    left: 0; /* Show menu when checkbox is checked */
+    left: 0; 
   }
 
-  .logg img {
-    height: 40px; /* Adjust logo size */
-    margin-left: 30px;
-  }
+ .logg img{
+  display: none;
+ }
 }

@@ -31,7 +31,6 @@
 }
 span{
   color: transparent;
-  background: linear-gradient(to left, #da1818, #1e25f9); 
   -webkit-background-clip: text; 
   background-clip: text; 
 }
